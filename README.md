@@ -192,6 +192,21 @@ Partner-acquired accounts upgrade at 12% vs 9.7% for unattributed. Combined with
 
 ---
 
+## KPIs to Track in Production
+
+| Cadence | Metric | Target |
+|---|---|---|
+| Weekly | Tier 1 outreach completion | 100% of 26 accounts contacted |
+| Weekly | Accounts moving into Tier 1 | Flag any new entries |
+| Monthly | Expansion MRR converted | $107,854/mo (15% conversion) |
+| Monthly | NRR by segment | Improve from 96.7% baseline |
+| Monthly | Contraction MRR | Reduce from $459K baseline |
+| Quarterly | Tier 1 conversion rate | 2-3x higher than Tier 3 |
+| Quarterly | Model AUC on new data | Retrain if below 0.60 |
+| Quarterly | Pro → Enterprise conversion | 15% of 139 Pro accounts |
+
+---
+
 ## Tech Stack
 
 | Tool | Purpose |
